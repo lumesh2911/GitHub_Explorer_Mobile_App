@@ -35,7 +35,7 @@ export default function App() {
           <Text style={styles.title}>No Connection</Text>
           <Text style={styles.description}>
             No internet connection found. Check your connection or try
-            again...!!
+            again.....!!
           </Text>
         </View>
       </Modal>
