@@ -1,4 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+# GitHub_Explorer_Mobile_App
+This is GitHub Explorer Mobile App
+=======
+<<<<<<< HEAD
+>>>>>>> 2dd940e (Initial commit)
 # GitHub Explorer Mobile App
 
 ## 📌 Overview
@@ -138,3 +145,7 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 >>>>>>> b1e3d87 (First1 Commit)
+<<<<<<< HEAD
+=======
+>>>>>>> a30e723 (Initial commit)
+>>>>>>> 2dd940e (Initial commit)
