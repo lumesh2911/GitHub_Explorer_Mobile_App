@@ -13,8 +13,8 @@ GitHub Explorer is a React Native mobile application that allows users to search
 ## 📦 Installation 🛠️
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/github-explorer.git
-cd github-explorer
+git clone https://github.com/lumesh2911/GitHub_Explorer_Mobile_App.git
+cd GitHub_Explorer_Mobile_App
 
 # Install dependencies
 npm install
@@ -24,7 +24,7 @@ npx react-native run-android
 ```
 
 ## 📱 APK
-[Download Here](https://drive.google.com/file/d/1KNslg3qpUHMvgXXzHLkLjNSw6fhclqUA/view?usp=sharing)
+[Download Here](https://drive.google.com/file/d/1O5kYvYaWzggIdObz3zMHbE9Uqi8gn7XE/view?usp=sharing)
 
 ## 🤝 Contribute
 Fork & PR welcome!
